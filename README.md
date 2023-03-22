@@ -1,6 +1,9 @@
 # Diabetes_predi
 
-Colab link (https://drive.google.com/file/d/1ALthRhTarmxjfSRxefDU3rHDP_2jDPna/view?usp=sharing)
+#Colab link
+(https://drive.google.com/file/d/1ALthRhTarmxjfSRxefDU3rHDP_2jDPna/view?usp=sharing)
+#College project link
+(https://docs.google.com/document/d/1rQR2Vh0E4Gy_EDylGsoUxXkrdqZnUefn/edit?usp=sharing&ouid=111829144282952577659&rtpof=true&sd=true)
 this project to Diabetes predictio to Solving to prediction 
 #CANDIDATE’S DECLARATION
 I Deepak kumar hereby certify that the work, which is being presented in the Mini-project report, entitled Diabetes prediction using machine learning, in partial fulfillment of the requirement for the award of the Degree of  Masters in Computer Application and submitted to the institution is an authentic record of my own work carried out during the period Nov-2022 to March -2023 under the supervision of Dr. Manoj Kumar Singh. I also cited the reference about the text(s) /table(s) from where they have been taken.
